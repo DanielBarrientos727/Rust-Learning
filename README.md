@@ -1,2 +1,26 @@
 # Rust-Learning
-Ejercicios y prácticas de Rust que voy realizando mientras aprendo el lenguaje.
+
+Ejercicios y prácticas que voy haciendo mientras aprendo Rust.
+
+## Temas
+
+* Sintaxis
+* Variables
+* Condicionales
+* Ciclos
+* Funciones
+* Structs
+* Ownership
+* Borrowing
+* Colecciones
+
+## Herramientas
+
+* Rust
+* Cargo
+* Git
+* Fedora Linux
+
+## Autor
+
+**Daniel Barrientos**
